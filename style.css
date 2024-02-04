@@ -1,10 +1,12 @@
 /* mitocondrio (mitocondrio.html) */
 .immagineMitocondrio {
-    width: 258px;
+    width: 400px;
     position: absolute;
     left: 720px;
     right: 0px;
-    bottom: 200px;
+    top: 170px;
+    z-index: 1;
+    
 }
 .mitocondriBlu {
     color: blue;
