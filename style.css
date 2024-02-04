@@ -1,0 +1,22 @@
+/* mitocondrio (mitocondrio.html) */
+.immagineMitocondrio {
+    width: 258px;
+    position: absolute;
+    left: 720px;
+    right: 0px;
+    bottom: 200px;
+}
+.mitocondriBlu {
+    color: blue;
+    font-weight: bold;
+}
+
+.descrizioneMitocondrio {
+    white-space: pre-line;
+    max-width: 45em; /* Adjust as needed */
+    
+}
+.mitocondrio, .descrizioneMitocondrio, .mitocondriBlu {
+    font-family: Arial;
+}
+/* --mitocondrio.-- */
